@@ -30,9 +30,13 @@ https://developers.google.com/web/fundamentals/accessibility/accessible-styles
 https://developers.google.com/web/fundamentals/accessibility/how-to-review
 
 ## Resources
-https://developers.google.com/web/fundamentals/accessibility/
+* Article(Accessibility)   https://developers.google.com/web/fundamentals/accessibility/
+* Article(Accessibility)   http://blog.invisionapp.com/guide-web-content-accessibility/
+* Article(ARIA)    https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+* VideoCourse(Accessibility) https://www.udacity.com/course/web-accessibility--ud891
+* Article(Javascript and Accessibility) https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9
 
 ## Tools/Extensions
 
-* Alix    https://github.com/ireade/alix
-* Axe     https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd
+* Alix(Testing)    https://github.com/ireade/alix
+* Axe(Testing)     https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd
