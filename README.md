@@ -40,3 +40,4 @@ https://developers.google.com/web/fundamentals/accessibility/how-to-review
 
 * Alix(Testing)    https://github.com/ireade/alix
 * Axe(Testing)     https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd
+* Sim Daltonism (color blindness simulator)    https://michelf.ca/projects/sim-daltonism/
