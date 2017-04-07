@@ -30,14 +30,15 @@ https://developers.google.com/web/fundamentals/accessibility/accessible-styles
 https://developers.google.com/web/fundamentals/accessibility/how-to-review
 
 ## Resources
-* Article(Accessibility)   https://developers.google.com/web/fundamentals/accessibility/
-* Article(Accessibility)   http://blog.invisionapp.com/guide-web-content-accessibility/
-* Article(ARIA)    https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
-* VideoCourse(Accessibility) https://www.udacity.com/course/web-accessibility--ud891
-* Article(Javascript and Accessibility) https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9
+* [Google on Accessibility](https://developers.google.com/web/fundamentals/accessibility/)
+* [Invision on accessibility](http://blog.invisionapp.com/guide-web-content-accessibility/)
+* [Mozilla ARIA docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+* [Accessibility videocourse](https://www.udacity.com/course/web-accessibility--ud891)
+* [Writing Javascript for everyone](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 
 ## Tools/Extensions
 
-* Alix(Testing)    https://github.com/ireade/alix
-* Axe(Testing)     https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd
-* Sim Daltonism (color blindness simulator)    https://michelf.ca/projects/sim-daltonism/
+* [Alix (Testing)](https://github.com/ireade/alix)
+* [WhatInput? (Utility to track input method)](https://github.com/ten1seven/what-input)
+* [Axe (Testing, not the deo company)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
+* [Sim Daltonism (color blindness simulator)](https://michelf.ca/projects/sim-daltonism/)
