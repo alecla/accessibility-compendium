@@ -40,5 +40,5 @@ https://developers.google.com/web/fundamentals/accessibility/how-to-review
 
 * [Alix (Testing)](https://github.com/ireade/alix)
 * [WhatInput? (Utility to track input method)](https://github.com/ten1seven/what-input)
-* [Axe (Testing, not the deo company)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
+* [Axe (Testing, not the grooming company)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
 * [Sim Daltonism (color blindness simulator)](https://michelf.ca/projects/sim-daltonism/)
